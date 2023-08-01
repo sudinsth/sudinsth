@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
 
 <h1 align="center">Hello there..</h1> 
-<h3 align="center">I'm a aspiring developer.</h3>
+<h3 align="center">I'm an aspiring developer.</h3>
 
 <br/>
 
@@ -58,27 +58,7 @@
 </p>
 
 <br/>
-<hr/>
 
-<table align="center">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudinsth&show_icons=true&locale=en&layout=compact" alt="sudinsth" />
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudinsth&" alt="sudinsth" /></p></td>
-    <td><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudinsth&show_icons=true&locale=en" alt="sudinsth" /></p></td>
-  </tr>
-</table>
-
-<div align="center">
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudinsth" alt="sudinsth" /></a></p>
-</div>
 
 
 
