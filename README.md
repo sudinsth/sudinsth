@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
 
 <h1 align="center">Hello there..</h1> 
-<h3 align="center">I'm an aspiring developer.</h3>
+<h3 align="center">I'm a developer.</h3>
 
 <br/>
 
