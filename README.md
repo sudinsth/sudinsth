@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript, Flutter**
 
-- ⚡ 2023 Goals: **Learn and "complete" couple of Flutter projects**
+- ⚡ 2024 Goals: **Full dive into the world of Flutter**
 
 <br/>
 <hr/>
