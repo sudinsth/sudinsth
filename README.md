@@ -5,11 +5,11 @@
 <br/>
 
 
-- 🔭 I'm currently working on **React native development**
+- 🔭 I'm currently working on **React Native | Flutter | NextJS**
 
-- 🌱 I’m currently learning **Typescript, Flutter**
+- 🌱 I’m currently learning ** " " **
 
-- ⚡ 2024 Goals: **Full dive into the world of Flutter**
+- ⚡ 2025 Goals: **Going with the flow currently**
 
 <br/>
 <hr/>
@@ -41,10 +41,13 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
 
